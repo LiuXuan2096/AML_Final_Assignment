@@ -1,0 +1,2 @@
+1 side_to_side
+2 up_down
